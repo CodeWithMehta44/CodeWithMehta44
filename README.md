@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Ashish Mehta
 
-<!--
-**CodeWithMehta44/CodeWithMehta44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Undergraduate  
+💻 Learning Data Structures & Algorithms  
+🤖 Interested in AI / Machine Learning  
+🚀 Building projects consistently  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+- Strengthening Programming Fundamentals
+- Mastering DSA
+- Building GitHub consistency
+
+## 🛠 Tech Stack (Learning)
+- Python
+- Java (DSA)
+- SQL
+- Git & GitHub
+
+---
+
+## 🎯 Goals
+- Internship 2027
+- Strong problem-solving skills
+- Becoming industry-ready engineer
+
+---
+
+“Consistency > Motivation”
